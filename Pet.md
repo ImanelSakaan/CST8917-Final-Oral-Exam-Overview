@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+graph TB
     subgraph Traditional
         A1[Order Service Container]
         B1[Notification Microservice]
@@ -18,4 +18,5 @@ flowchart TD
     B1 --> B2
     C1 --> C2
     D1 --> D2
-```
+end
+```    
