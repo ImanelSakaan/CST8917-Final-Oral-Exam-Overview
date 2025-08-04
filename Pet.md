@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     subgraph Traditional
         A1[Order Service Container]
@@ -17,3 +18,4 @@ flowchart TD
     B1 --> B2
     C1 --> C2
     D1 --> D2
+```
